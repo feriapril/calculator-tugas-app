@@ -1,0 +1,11 @@
+G:\Tugas\Project\Pemrograman\19.11.2890\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+G:\Tugas\Project\Pemrograman\19.11.2890\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+G:\Tugas\Project\Pemrograman\19.11.2890\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+G:\Tugas\Project\Pemrograman\19.11.2890\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+G:\Tugas\Project\Pemrograman\19.11.2890\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+G:\Tugas\Project\Pemrograman\19.11.2890\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+G:\Tugas\Project\Pemrograman\19.11.2890\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+G:\Tugas\Project\Pemrograman\19.11.2890\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+G:\Tugas\Project\Pemrograman\19.11.2890\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+G:\Tugas\Project\Pemrograman\19.11.2890\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+G:\Tugas\Project\Pemrograman\19.11.2890\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
